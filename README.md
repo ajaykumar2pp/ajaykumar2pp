@@ -13,7 +13,9 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/ajay-kumar-6a041b1ba/" ><img src="https://user-images.githubusercontent.com/102378038/225508579-4b6f08d4-5a3b-42a7-8074-ba892068d4ed.png" alt="aws" width="40" height="40"/> </a>
+    <a href="https://chat.whatsapp.com/KoOoJxZUp4UFupHXt4DpQR" ><img src="https://user-images.githubusercontent.com/102378038/225509366-b05f0809-e764-4ec6-9226-c92cc721c9b8.jpg" alt="aws" width="40" height="40"/> </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
