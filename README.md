@@ -1,4 +1,7 @@
+![Full Stack web _banner (2)](https://user-images.githubusercontent.com/102378038/226080433-f08d0faf-575b-4dec-b4a4-b34fd8c95b12.jpg)
+
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
+
 
 - 👀 I’m interested in Full Stack Web Developer
 
