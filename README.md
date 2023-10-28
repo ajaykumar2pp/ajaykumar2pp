@@ -1,5 +1,5 @@
 <!-- ![Full Stack web _banner (2)](https://user-images.githubusercontent.com/102378038/226080433-f08d0faf-575b-4dec-b4a4-b34fd8c95b12.jpg) -->
-![FullStack Web Developer (2)](https://user-images.githubusercontent.com/102378038/235421317-4ee4c7e4-53bc-4c2e-b88f-4a834811ef63.gif)
+![FullStack Web Developer](https://github.com/ajaykumar2pp/ajaykumar2pp/assets/102378038/450817bb-71aa-480d-a4b0-86fb3f7cd536)
 
 
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
